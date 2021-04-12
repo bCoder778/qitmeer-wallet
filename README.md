@@ -1,5 +1,5 @@
 ## qitmeer-wallet
-The command-line wallet of the Qitmeer network
+The command-line wallet of the Qitmeer networ
 
 
 ## download or build
